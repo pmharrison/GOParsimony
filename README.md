@@ -1,7 +1,7 @@
 
-***************
-* GOParsimony *
-***************
+
+ GOParsimony 
+=============
 
 GOParsimony is a fast, robust bioinformatics package designed for parsimonious Gene Ontology (GO) 
 functional annotation. 
@@ -27,7 +27,6 @@ It is licensed with a 3-clause BSD licence.
 
 
 
-=================
 INSTALL / COMPILE
 ================= 
 
@@ -78,7 +77,6 @@ chmod +x run-GOParsimony.sh
 
 
 
-=====
 USAGE
 ===== 
 
