@@ -20,7 +20,9 @@ modules, and comparative Venn diagrams and bar charts.
 The package consists of three main components:
 
 GOParsimony.c:         The core C program for parsing the OBO ontology and calculating statistics.
+
 precedence-graphs.py:  The Python visualization script.
+
 run-GOParsimony.sh:    A convenient shell script to execute the entire pipeline automatically.
 
 It is licensed with a 3-clause BSD licence. 
