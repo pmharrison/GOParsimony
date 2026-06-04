@@ -3,7 +3,7 @@
  GOParsimony 
 =============
 
-[![DOI](https://zenodo.org/badge/1258390854.svg)](https://doi.org/10.5281/zenodo.20543570) 
+Zenodo link: [![DOI](https://zenodo.org/badge/1258390854.svg)](https://doi.org/10.5281/zenodo.20543570) 
 
 GOParsimony is a fast, robust bioinformatics package designed for parsimonious Gene Ontology (GO) 
 functional annotation. 
