@@ -120,21 +120,21 @@ A highlight list (-l) containing specific GO term IDs (one per line) to visually
 
 Flags used:
 ----------- 
--o: Path to the Gene Ontology definition (OBO format) file
+-o: Path to the Gene Ontology definition (OBO format) file.
 
--b: Path to the background annotations (in GAF or two-column {ID + GOterm} format) 
+-b: Path to the background annotations (in GAF or two-column {ID + GOterm} format).
 
--s: Path to the sample list of IDs or accessions (consistent with the background annotations file) 
+-s: Path to the sample list of IDs or accessions (consistent with the background annotations file). 
 
--p: Prefix for output files (e.g., "my_experiment")
+-p: Prefix for output files (e.g., "my_experiment").
 
--x: Maximum precedence threshold for the concise graphs and heatmaps (default is 5)
+-x: Maximum precedence threshold for the concise graphs and heatmaps (default is 5).
 
--m: (Optional) Path to GO Slims file
+-m: (Optional) Path to GO Slims file.
 
--l: (Optional) ("ell") Path to Highlighted terms list
+-l: (Optional) ("ell") Path to Highlighted terms list.
 
--e: (Optional) To keep the intermediate "Expanded" annotation text files on disk
+-e: (Optional) To keep the intermediate "Expanded" annotation text files on disk.
 
 
 
