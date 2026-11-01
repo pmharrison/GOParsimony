@@ -15,7 +15,7 @@ filtering them with a "parsimonious saltation" procedure across the DAG to assig
 drawing of informative graphs. First-level precedence (precedence =1) is the parsimoniously least redundant list, 
 but further precedence levels need to be added in to generate clusters indicating possible functional modules. 
 
-![Algorithm](./FIGURE-1N-algorithms.pdf)
+![Algorithm](./FIGURE-1N-algorithms.png)
 *Figure: (A) Algorithm flowchart. (B) Calculation of precedence cascades. Taken from article in submission.*
 
 
