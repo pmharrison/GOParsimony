@@ -15,6 +15,10 @@ filtering them with a "parsimonious saltation" procedure across the DAG to assig
 drawing of informative graphs. First-level precedence (precedence =1) is the parsimoniously least redundant list, 
 but further precedence levels need to be added in to generate clusters indicating possible functional modules. 
 
+![Algorithm](./FIGURE-1N-algorithms.pdf)
+*Figure: (A) Algorithm flowchart. (B) Calculation of precedence cascades.*
+
+
 The package uses a comprehensive Python visualization script to generate publication-ready figures, including coloured 
 Precedence DAGs, Jaccard-distance clustered 2D heatmaps of shared GO terms that are useful for picking out possible functional 
 modules, and comparative Venn diagrams and bar charts.
